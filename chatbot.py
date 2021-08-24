@@ -21,3 +21,15 @@ while spørsmål!=0:
     elif spørsmål == 4: 
         print(" jeg har drevet med html css python visual studio og windows server 2012 r2\n")
     
+
+
+
+
+
+
+
+
+
+    
+
+
